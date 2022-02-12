@@ -1,6 +1,6 @@
 UPCOMING = "https://upcomingnft.art/upcoming-nft-drops/"
 SOLSEA = "https://solsea.io/collection-calendar"
-TOKEN = ""
+TOKEN = "OTE5MDM5OTgzOTU5MDQwMDUw.YbQArw.EFKS7S9Oxq8HhRXdoY19rocgJ1Y"
 SOL_ID = 887597619570950144
 ETH_ID = 887101618166841345
 ADA_ID = 890775406649692200
