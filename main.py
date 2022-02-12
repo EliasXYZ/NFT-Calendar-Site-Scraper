@@ -6,6 +6,7 @@ import my_parser
 import filemanager
 import asyncio
 import sol_parser
+import os
 
 bot = discord.Client()
 
@@ -189,4 +190,4 @@ async def solsea_msg_maker(nfts, channel):
         await asyncio.sleep(3)
 
 
-bot.run(constants.TOKEN)
+bot.run(os.environ['DISCORD_TOKEN'])
