@@ -1,1 +1,1 @@
-ECHO is on.
+worker:  main jobs:work
